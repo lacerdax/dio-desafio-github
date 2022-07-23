@@ -1,0 +1,16 @@
+SHA1    | openssl sha1 arquivo.formato | Hash criptográfica de arquivo, de 40 caracteres.
+BLOBS   | hash-object --stdin | função do git que informa o sha1
+TREES   |
+COMMITS |
+
+commit aponta para árvores, parentes, autor, mensagem, dar significado
+commit > tree > blobs
+S
+Sistema distribuido seguro
+S
+GIT
+
+chave SSH = conexao segura entre as maquinas confiáveis
+2 chaves, 1 publica e 1 privada
+colocar chave publica no github = assinatura da maquina
+
