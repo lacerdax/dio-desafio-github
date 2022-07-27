@@ -1,14 +1,23 @@
 Flex container - propriedades:
 
-Display: joga elementos filhos lado a lado horizontalmente
+- Display: joga elementos filhos lado a lado horizontalmente
+flex
 
-Flex-direction: 
+- Flex-direction: 
 row(padrao) = esquerda para direita
 row-reverse = sentido oposto
 column = ordenação de cima para baixo em coluna
 column-reverse = sentido posto do column
 
-Flex-wrap: itens devem ou não quebrar a linha
+- Flex-wrap: itens devem ou não quebrar a linha
 nowrap: padrão, não quebra linha
 wrap: permite a quebra de linha
-S
+
+- Flex flow: atalho para flex-direction e flex-wrap
+
+- Justify Content: alinhar os itens dentro do container de acordo com a direção pretendida e tratar da distribuição de espaçamento entre eles
+flex-start = início do container
+flex-end = final do container
+center = centro do container
+space-between = cria um espaçamento igual entre os elementos
+space-around = do meio duas vezes maiores que o inicial e o final
