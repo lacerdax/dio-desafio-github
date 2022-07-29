@@ -21,6 +21,7 @@ flex-end = final do container
 center = centro do container
 space-between = cria um espaçamento igual entre os elementos
 space-around = do meio duas vezes maiores que o inicial e o final
+<<<<<<< HEAD
 
 Align itens: alinhamento dos itens de acordo com o eixo do container
 o alinhamento é diferente para linhas e colunas.
@@ -37,3 +38,5 @@ flex-start - alinhamento ao inicio
 flex-end - alinhamento dos itens ao final
 space-between - espaçamento igual entre os itens
 space-around - espaçamento duas vezes maiores que o inicial e o final
+=======
+>>>>>>> 751801b678ad1fcc7bb21e941d6ecc620733328e
