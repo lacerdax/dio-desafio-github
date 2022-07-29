@@ -21,3 +21,19 @@ flex-end = final do container
 center = centro do container
 space-between = cria um espaçamento igual entre os elementos
 space-around = do meio duas vezes maiores que o inicial e o final
+
+Align itens: alinhamento dos itens de acordo com o eixo do container
+o alinhamento é diferente para linhas e colunas.
+center - itens ao centro
+stretch - cresçam igualmente
+flex-start - alinha ao inicio
+flex-end - alinha ao final
+baseline - alinhamento de acordo com a linha base da tipografia
+
+Align content: alinhamento das linhas do container em relação ao eixo vertical do container
+center - alinhamento ao centro
+stretch - crescimento igualmente
+flex-start - alinhamento ao inicio
+flex-end - alinhamento dos itens ao final
+space-between - espaçamento igual entre os itens
+space-around - espaçamento duas vezes maiores que o inicial e o final
