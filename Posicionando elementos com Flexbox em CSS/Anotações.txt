@@ -21,9 +21,9 @@ flex-end = final do container
 center = centro do container
 space-between = cria um espaçamento igual entre os elementos
 space-around = do meio duas vezes maiores que o inicial e o final
-<<<<<<< HEAD
 
-Align itens: alinhamento dos itens de acordo com o eixo do container
+
+- Align itens: alinhamento dos itens de acordo com o eixo do container
 o alinhamento é diferente para linhas e colunas.
 center - itens ao centro
 stretch - cresçam igualmente
@@ -31,12 +31,16 @@ flex-start - alinha ao inicio
 flex-end - alinha ao final
 baseline - alinhamento de acordo com a linha base da tipografia
 
-Align content: alinhamento das linhas do container em relação ao eixo vertical do container
+- Align content: alinhamento das linhas do container em relação ao eixo vertical do container
 center - alinhamento ao centro
 stretch - crescimento igualmente
 flex-start - alinhamento ao inicio
 flex-end - alinhamento dos itens ao final
 space-between - espaçamento igual entre os itens
 space-around - espaçamento duas vezes maiores que o inicial e o final
-=======
->>>>>>> 751801b678ad1fcc7bb21e941d6ecc620733328e
+
+- Flex grow: define a proporcionalidade de crescimento dos itens, respeitando o tamanho de seus conteúdos internos.
+
+- Flex basis: tamanho inicial do item antes das distribuiçao de espaço restante dentro dele, usando como base o conteúdo interno disposto
+
+- Flex shrink: estabelece a capacidade de redução ou compressão do tamanho de um item 
