@@ -43,4 +43,16 @@ space-around - espaçamento duas vezes maiores que o inicial e o final
 
 - Flex basis: tamanho inicial do item antes das distribuiçao de espaço restante dentro dele, usando como base o conteúdo interno disposto
 
-- Flex shrink: estabelece a capacidade de redução ou compressão do tamanho de um item 
+- Flex shrink: estabelece a capacidade de redução ou compressão do tamanho de um item
+
+- Flex: propriedade que é um atalho ou abreviação de escrita para as propriedades: grow, shrink e basis.
+
+- Order: ordenação dos itens
+
+- Align-self: alinhamento de modo individual sobre um determinado item.
+auto: valor padrão, irá respeitar a definição e align-itens do container
+flex-start: inicio do container
+flex-end: final do container
+center: relativo ao centro de acordo com eixo
+stretch: ocupa todo o espaço relativo
+baseline: utiliza a linha base da tipografia
